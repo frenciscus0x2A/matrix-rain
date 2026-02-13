@@ -2,7 +2,7 @@
 
 Canvas falling characters. ES module, zero deps.
 
-**[Demo](https://frenciscus0x2A.github.io/Matrix-Rain/)**
+**[Demo](https://frenciscus0x2a.github.io/matrix-rain/)**
 
 ## Usage
 
