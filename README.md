@@ -46,7 +46,3 @@ Chainable.
 | `autoPauseOnHidden` | true | Pause when tab hidden |
 | `resizeDebounceMs` | 200 | Resize delay |
 | `chars` | (built-in) | Character set |
-
-## License
-
-MIT
